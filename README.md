@@ -29,3 +29,13 @@ Notes:
 The book ID must be unique.
 The book title and author fields cannot be left empty.
 The book status must be either Available or Checked Out.
+
+Challenges:
+
+Ensuring proper validation of user inputs to prevent errors and maintain data integrity.
+
+Handling user input efficiently without causing unexpected crashes.
+
+Implementing a simple yet effective way to search, update, and delete books.
+
+Managing the program flow to keep it user-friendly and interactive.
