@@ -1,4 +1,4 @@
-Description:
+Description:-
 
 This is a simple Java-based Library Management System that allows users to manage a collection of books. It provides functionalities to:
 
@@ -16,17 +16,20 @@ Exit the program
 
 The system ensures proper validation of user inputs.
 
-How to Run:
+
+How to Run:-
 
 Compile the program: javac MyLibrary.java
 
 Run the program: java MyLibrary
 
-Usage:
+
+Usage:-
 
 Once the program runs, you will see a menu with options. Enter the corresponding number for the action you want to perform.
 
-Working:
+
+Working:-
 
 The system starts by displaying a menu with options for book management.
 
@@ -42,7 +45,8 @@ Deleting removes a book from the collection permanently.
 
 The program continues running until the user chooses to exit.
 
-Notes:
+
+Notes:-
 
 The book ID must be unique.
 
@@ -50,7 +54,8 @@ The book title and author fields cannot be left empty.
 
 The book status must be either Available or Checked Out.
 
-Challenges:
+
+Challenges:-
 
 Ensuring proper validation of user inputs to prevent errors and maintain data integrity.
 
